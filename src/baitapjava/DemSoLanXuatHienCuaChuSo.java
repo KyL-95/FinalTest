@@ -5,7 +5,7 @@ import java.util.*;
 public class DemSoLanXuatHienCuaChuSo {
     public static void main(String[] args) {
         Integer a = 12343215;
-        Integer b = 1112343215;
+//        Integer b = 1112343215;
         String aToString = a.toString();
         System.out.println(aToString);
 
